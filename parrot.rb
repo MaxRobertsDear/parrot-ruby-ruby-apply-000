@@ -5,7 +5,7 @@ def parrot (argument)
     puts argument
     return argument
   else
-    puts "Squawk!"
+    return "Squawk!"
   end
 end
   
