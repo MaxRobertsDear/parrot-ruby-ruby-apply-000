@@ -6,5 +6,6 @@ def parrot (argument)
     return argument
   else
     puts "Squawk!"
+  end
 end
   
