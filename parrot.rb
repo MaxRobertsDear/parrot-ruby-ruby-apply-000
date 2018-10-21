@@ -1,6 +1,6 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-def parrot (argument)
+def parrot ("argument")
   unless argument.to_s.length == 0
     puts argument
     return argument
